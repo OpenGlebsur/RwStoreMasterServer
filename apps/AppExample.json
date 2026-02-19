@@ -8,7 +8,7 @@
     "mainStars": "0", // Here Comes the stars you can choose 0 until 5 Stars and please delete this Comment before Publishing
     "ratingNumber": "0.0", // Here you can change the Rating number and please delete this Comment before Publishing
     "ratingsCount": "0", // Here you can change the Ratingscount and please delete this Comment before Publishing
-    "size": "8.33 MB", // Here you can change the App Size please use the Real Size for the App and please delete this Comment before Publishing
+    "size": "0.00 MB", // Here you can change the App Size please use the Real Size for the App and please delete this Comment before Publishing
     "ageRating": "Everyone", // Here comes the AgeRating if this a App that is 18+ please changed Everyone to 18+ and please delete this Comment before Publishing
     "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/appicon.png", // Here can you change the App Icon and please delete this Comment before Publishing
     "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/adobePhotoshopimg1.PNG", // Here can you change the App Screenshot 1 and please delete this Comment before Publishing
@@ -16,4 +16,5 @@
     "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/adobePhotoshopimg3.png", // Here can you change the App Screenshot 3 and please delete this Comment before Publishing
     "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/appxs/downloadappname.appx" // Here can you change the Downloadapp name for example https://reworkw8.github.io/RwStoreMasterServer/appxs/AdobeSystemsIncorporated.AdobePhotoshopExpressOEM_1.2.1.17_x64__ynb6jyjzte8ga.appx and please delete this Comment before Publishing
 }
+
 
