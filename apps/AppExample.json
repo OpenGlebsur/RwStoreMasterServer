@@ -1,0 +1,19 @@
+{
+    "displayname": "App Template", // Here comes the Appname please name also the File to the app name here as a Example The name is App Template then name it apptemplate.json and please delete this Comment before Publishing
+    "productType": "app", // Here comes the ProductType here you dont need to change it and please delete this Comment before Publishing
+    "category": "Youre Category", // Here comes the Category we have Only Productivity and Games and Windows RT and Windows Phone and please delete this Comment before Publishing
+    "publisher": "Here comes the Publisher name", // Here you change the Publisher name and please delete this Comment before Publishing
+    "copyright": "© 20?? Publisher. All rights reserved.", // Here youre right the Year which camed the App out and the Publisher name and please delete this Comment before Publishing
+    "description": "Here is the Description", // Here is the Description please change the Description and please delete this Comment before Publishing
+    "mainStars": "0", // Here Comes the stars you can choose 0 until 5 Stars and please delete this Comment before Publishing
+    "ratingNumber": "0.0", // Here you can change the Rating number and please delete this Comment before Publishing
+    "ratingsCount": "0", // Here you can change the Ratingscount and please delete this Comment before Publishing
+    "size": "8.33 MB", // Here you can change the App Size please use the Real Size for the App and please delete this Comment before Publishing
+    "ageRating": "Everyone", // Here comes the AgeRating if this a App that is 18+ please changed Everyone to 18+ and please delete this Comment before Publishing
+    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/appicon.png", // Here can you change the App Icon and please delete this Comment before Publishing
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/adobePhotoshopimg1.PNG", // Here can you change the App Screenshot 1 and please delete this Comment before Publishing
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/adobePhotoshopimg2.PNG", // Here can you change the App Screenshot 2 and please delete this Comment before Publishing
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/adobePhotoshopimg3.png", // Here can you change the App Screenshot 3 and please delete this Comment before Publishing
+    "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/appxs/downloadappname.appx" // Here can you change the Downloadapp name for example https://reworkw8.github.io/RwStoreMasterServer/appxs/AdobeSystemsIncorporated.AdobePhotoshopExpressOEM_1.2.1.17_x64__ynb6jyjzte8ga.appx and please delete this Comment before Publishing
+}
+
