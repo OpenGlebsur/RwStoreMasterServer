@@ -160,7 +160,7 @@
                     "internal_code": "RW-WIN-RT",
                     "payload": [
                         {"uid": "RW_WMI_01", "label": "winrtmetroinstaller"},
-                        {"uid": "RW_n++rt_01", "label": "Notepad++ RT"},
+                        {"uid": "RW_n++rt_01", "label": "Notepad++RT"},
                         {"uid": "RW_FS14WinRT_01", "label": "farmingsimulator14WinRT"}
                     ]
                 },
@@ -213,6 +213,7 @@
         }
     }
 }
+
 
 
 
