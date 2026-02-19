@@ -39,7 +39,7 @@
             { "label": "minionrush", "uid": "RW_DMMR_01" },
             { "label": "farmingsimulator14", "uid": "RW_FS14_01" },
             { "label": "farmingsimulator14WinRT", "uid": "RW_FS14WinRT_01" },
-            { "label": "farmingsimulator16", "uid": "RW_FS16_01" }
+            { "label": "farmingsimulator16", "uid": "RW_FS16_01" },
             { "label": "travelRetiled", "uid": "RW_TRVL_01" }
           ]
         },
