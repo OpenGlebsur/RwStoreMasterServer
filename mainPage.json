@@ -11,7 +11,7 @@
             "version1.7": false,
             "version1.8": false,
             "version1.9": false,
-            "version2.0": true,
+            "version2.0": false,
             "version2.1": true,
             "session_persistence": "enabled",
             "global_status": "operational",
@@ -214,6 +214,7 @@
         }
     }
 }
+
 
 
 
