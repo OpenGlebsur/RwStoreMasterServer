@@ -13,7 +13,7 @@
             "version1.9": false,
             "version2.0": false,
             "version2.1": false,
-            "version2.2": "update",
+            "version2.2": true,
             "session_persistence": "enabled",
             "global_status": "operational",
             "environment": "production-master",
@@ -220,6 +220,7 @@
         }
     }
 }
+
 
 
 
