@@ -32,9 +32,9 @@
             "auth_service": "https://reworkw8.github.io/RwStoreMasterServer/auth"
         },
         "toast_notification": {
-            "ShowToast": true,
-            "title": "Don't use 8Store!",
-            "message": "8Store is a really bad store we recommend you to use continuing the Rework Store because we are a thousand times better."
+            "ShowToast": false,
+            "title": "",
+            "message": ""
         },
         "content_registry": {
             "live_tile_feed": {
@@ -223,6 +223,7 @@
         }
     }
 }
+
 
 
 
