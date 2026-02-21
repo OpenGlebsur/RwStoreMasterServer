@@ -29,6 +29,7 @@
         },
         "toast_notification": {
             "ShowToast": true,
+            "title": "Important",
             "message": "This is a test!"
         },
         "content_registry": {
@@ -218,3 +219,4 @@
         }
     }
 }
+
