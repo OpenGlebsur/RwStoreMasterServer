@@ -4,6 +4,9 @@
             "node_active": true,
             "maintenance_mode": true, 
             "lock_mode": true,
+            "version1.0": false,
+            "version1.1": false,
+            "version1.2": false,
             "version1.3": false,
             "version1.4": false,
             "version1.5": false,
@@ -220,6 +223,7 @@
         }
     }
 }
+
 
 
 
