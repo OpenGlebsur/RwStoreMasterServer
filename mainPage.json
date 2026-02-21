@@ -33,9 +33,9 @@
             "auth_service": "https://reworkw8.github.io/RwStoreMasterServer/auth"
         },
         "toast_notification": {
-            "ShowToast": true,
-            "title": "We will close the Rework Discord Server on February 22nd!",
-            "message": "By the way, Rework now has its own website, and future app updates and apps will only be available on the Rework website. You can still use the Discord server until February 22nd after that, it will no longer be possible to use it. Therefore, I strongly recommend creating an account on the Rework website. Here's the link: https://reworkw8.wixsite.com/rework"
+            "ShowToast": false,
+            "title": "",
+            "message": ""
         },
         "content_registry": {
             "live_tile_feed": {
@@ -225,6 +225,7 @@
         }
     }
 }
+
 
 
 
