@@ -188,6 +188,7 @@
                     "payload": [
                         {"uid": "RW_STORE_01", "label": "store"},
                         {"uid": "RW_MSO_01", "label": "msoclient"},
+                        {"uid": "RW_RWA_01", "label": "ReworkWinapp"},
                         {"uid": "RW_RBLX_01", "label": "robloxrework"}
                     ]
                 },
@@ -224,6 +225,7 @@
         }
     }
 }
+
 
 
 
