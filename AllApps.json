@@ -41,6 +41,7 @@
             { "label": "farmingsimulator14WinRT", "uid": "RW_FS14WinRT_01" },
             { "label": "farmingsimulator16", "uid": "RW_FS16_01" },
             { "label": "Notepad++RT", "uid": "RW_n++rt_01" },
+            { "label": "Microsoft games RT", "uid": "RW_MSGRT_01" },
             { "label": "travelRetiled", "uid": "RW_TRVL_01" }
           ]
         },
