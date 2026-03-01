@@ -11,13 +11,13 @@
         "curated_selection": {
           "internal_code": "RW-FL-001",
           "payload": [
-            { "label": "weatherRetiled", "uid": "RW_WTHR_88" },
-            { "label": "newsRetiled", "uid": "RW_NEWS_12" },
+            { "label": "weather", "uid": "RW_WTHR_88" },
+            { "label": "news", "uid": "RW_NEWS_12" },
             { "label": "freshPaint", "uid": "RW_PNT_99" },
             { "label": "twitter", "uid": "RW_SOC_TBT" },
-            { "label": "xboxGamesAppRetiled", "uid": "RW_XBOX_01" },
-            { "label": "food&drinkRetiled", "uid": "RW_FD_01" },
-            { "label": "sportsRetiled", "uid": "RW_SPT_01" },
+            { "label": "xboxGamesApp", "uid": "RW_XBOX_01" },
+            { "label": "food&drink", "uid": "RW_FD_01" },
+            { "label": "sports", "uid": "RW_SPT_01" },
             { "label": "netflix", "uid": "RW_NTFX_01" },
             { "label": "dogedodge", "uid": "RW_DGDD_01" },
             { "label": "dumbwaystodie2thegames", "uid": "RW_DWTD2TG_01" },
@@ -42,7 +42,7 @@
             { "label": "farmingsimulator16", "uid": "RW_FS16_01" },
             { "label": "Notepad++RT", "uid": "RW_n++rt_01" },
             { "label": "microsoftgamesRT", "uid": "RW_MSGRT_01" },
-            { "label": "travelRetiled", "uid": "RW_TRVL_01" }
+            { "label": "travel", "uid": "RW_TRVL_01" }
           ]
         },
         "utility_peak": {
@@ -53,8 +53,8 @@
             { "label": "openTracks", "uid": "RW_TRK_OPEN" },
             { "label": "networkSpeedTest", "uid": "RW_NET_SPD" },
             { "label": "kindle", "uid": "RW_AMZ_KNDL" },
-            { "label": "financeRetiled", "uid": "RW_FIN_MGR" },
-            { "label": "health&fitnessRetiled", "uid": "RW_HF_01" }
+            { "label": "finance", "uid": "RW_FIN_MGR" },
+            { "label": "health&fitness", "uid": "RW_HF_01" }
           ]
         },
         "gaming_peak": {
