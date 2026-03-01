@@ -211,7 +211,7 @@
                         },
                         {
                             "title": "The Newsstand",
-                            "apps": ["weatherRetiled", "news", "travel", "finance"]
+                            "apps": ["weather", "news", "travel", "finance"]
                         },
                         {
                             "spacer": true
@@ -226,6 +226,7 @@
         }
     }
 }
+
 
 
 
