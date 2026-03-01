@@ -160,7 +160,7 @@
                         {"uid": "RW_G_ABS", "label": "kindle"},
                         {"uid": "RW_G_MSW", "label": "raymanJungleRun"},
                         {"uid": "RW_G_CTR_L", "label": "templeRunOz"},
-                        {"uid": "RW_G_WMW", "label": "xboxGamesAppRetiled"},
+                        {"uid": "RW_G_WMW", "label": "xboxGamesApp"},
                         {"uid": "RW_G_FNJ", "label": "netflix"},
                         {"uid": "RW_DWTD2TG_01", "label": "openTracks"},
                         {"uid": "RW_CC_01", "label": "comedycentral"}
@@ -226,6 +226,7 @@
         }
     }
 }
+
 
 
 
