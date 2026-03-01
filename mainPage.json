@@ -80,15 +80,15 @@
                         {"uid": "RW_NTFX_01", "label": "netflix"},
                         {"uid": "RW_GAME_CTR", "label": "cutTheRope"},
                         {"uid": "RW_G_FNJ", "label": "fruitNinja"},
-                        {"uid": "RW_NEWS_12", "label": "newsRetiled"}
+                        {"uid": "RW_NEWS_12", "label": "news"}
                     ]
                 },
                 "curated_selection": {
                     "title": "Featured",
                     "internal_code": "RW-FL-001",
                     "payload": [
-                        {"uid": "RW_WTHR_88", "label": "weatherRetiled"},
-                        {"uid": "RW_NEWS_12", "label": "newsRetiled"},
+                        {"uid": "RW_WTHR_88", "label": "weather"},
+                        {"uid": "RW_NEWS_12", "label": "news"},
                         {"uid": "RW_PNT_99", "label": "freshPaint"},
                         {"uid": "RW_GAME_CTR", "label": "cutTheRope"},
                         {"uid": "RW_SOC_TBT", "label": "twitter"},
@@ -109,7 +109,7 @@
                         {"uid": "RW_AMZ_KNDL", "label": "kindle"},
                         {"uid": "RW_NTFX_01", "label": "netflix"},
                         {"uid": "RW_EVNE_01", "label": "evernote"},
-                        {"uid": "RW_FIN_MGR", "label": "financeRetiled"}
+                        {"uid": "RW_FIN_MGR", "label": "finance"}
                     ]
                 },
                 "gaming_peak": {
@@ -144,13 +144,13 @@
                     "title": "Top Grossing",
                     "internal_code": "RW-GR-005",
                     "payload": [
-                        {"uid": "RW_G_ABS", "label": "food&drinkRetiled"},
+                        {"uid": "RW_G_ABS", "label": "food&drink"},
                         {"uid": "RW_G_MSW", "label": "dogedodge"},
                         {"uid": "RW_G_CTR_L", "label": "sonicDash"},
                         {"uid": "RW_G_WMW", "label": "freshPaint"},
                         {"uid": "RW_G_FNJ", "label": "fruitNinja"},
                         {"uid": "RW_DWTD2TG_01", "label": "openTracks"},
-                        {"uid": "RW_G_RRX", "label": "travelRetiled"}
+                        {"uid": "RW_G_RRX", "label": "travel"}
                     ]
                 },
                 "rated_peak": {
@@ -199,7 +199,7 @@
                     "payload": [
                         {
                             "title": "Great Apps",
-                            "apps": ["appinstaller", "xboxGamesAppRetiled", "freshPaint", "netflix"]
+                            "apps": ["appinstaller", "xboxGamesApp", "freshPaint", "netflix"]
                         },
                         {
                             "title": "Getting Started",
@@ -211,7 +211,7 @@
                         },
                         {
                             "title": "The Newsstand",
-                            "apps": ["weatherRetiled", "newsRetiled", "travelRetiled", "financeRetiled"]
+                            "apps": ["weatherRetiled", "news", "travel", "finance"]
                         },
                         {
                             "spacer": true
@@ -226,6 +226,7 @@
         }
     }
 }
+
 
 
 
