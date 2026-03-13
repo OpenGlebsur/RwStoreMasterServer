@@ -42,6 +42,7 @@
             { "label": "farmingsimulator16", "uid": "RW_FS16_01" },
             { "label": "Notepad++RT", "uid": "RW_n++rt_01" },
             { "label": "microsoftgamesRT", "uid": "RW_MSGRT_01" },
+            { "label": "ReWindowsStore", "uid": "RW_RWS_01" },
             { "label": "travel", "uid": "RW_TRVL_01" }
           ]
         },
