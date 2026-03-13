@@ -1,0 +1,20 @@
+{
+    "displayname": "ReWindowsStore", 
+    "productType": "app", 
+    "category": "Productivity", 
+    "publisher": "OpenGlebsur", 
+    "copyright": "© 2026 OpenGlebsur. All rights reserved.", 
+    "description": "Shoping mall with apps from 8Store and Rework and others stores.", 
+    "mainStars": "2", 
+    "ratingNumber": "2.8", 
+    "ratingsCount": "207", 
+    "size": "302 KB", 
+    "ageRating": "Everyone", 
+    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/ReWindowsStore.png", 
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/ReWindowsStoreimg1.png", 
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/ReWindowsStoreimg2.png", 
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/ReWindowsStoreimg3.png", 
+    "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/appxs/WinStore_1.0.1.3_AnyCPU.appx" 
+}
+
+
