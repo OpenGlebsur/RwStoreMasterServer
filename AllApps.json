@@ -44,6 +44,8 @@
             { "label": "microsoftgamesRT", "uid": "RW_MSGRT_01" },
             { "label": "ReWindowsStore", "uid": "RW_RWS_01" },
             { "label": "DrayMusic", "uid": "RW_DM_01" },
+            { "label": "MicrosoftSolitaireCollection", "uid": "RW_MSC_01" },
+            { "label": "Clock+", "uid": "RW_CLOCK_01" },
             { "label": "travel", "uid": "RW_TRVL_01" }
           ]
         },
