@@ -14,6 +14,6 @@
     "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/hpgamesscreen1.PNG", 
     "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/hpgamesscreen2.PNG", 
     "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/hpgamesscreen3.png", 
-    "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/appxs/hpgames.appx" 
+    "downloadUri": "https://github.com/ReworkW8/RwStoreMasterServer/releases/download/appx/hpgames.appx" 
 }
 
