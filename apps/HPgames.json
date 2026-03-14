@@ -1,0 +1,19 @@
+{
+    "displayname": "HP games", 
+    "productType": "app", 
+    "category": "Games",
+    "publisher": "HP",
+    "copyright": "© 2013 HP. All rights reserved.",
+    "description": "an game app from hp developers. May work on windows RT",
+    "mainStars": "2",
+    "ratingNumber": "2.9",
+    "ratingsCount": "768",
+    "size": "21.1 MB",
+    "ageRating": "Everyone", 
+    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/hpgamesicon.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/hpgamesscreen1.PNG", 
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/hpgamesscreen2.PNG", 
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/hpgamesscreen3.png", 
+    "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/appxs/hpgames.appx" 
+}
+
