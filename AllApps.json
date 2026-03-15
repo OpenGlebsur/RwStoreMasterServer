@@ -49,6 +49,7 @@
             { "label": "HPgames", "uid": "RW_HPG_01" },
             { "label": "Nokiastorytellerx86", "uid": "RW_NSTD_01" },
             { "label": "NokiastorytellerRT", "uid": "RW_NSTRT_01" },
+            { "label": "Facebook", "uid": "RW_FAC_01" },
             { "label": "travel", "uid": "RW_TRVL_01" }
           ]
         },
