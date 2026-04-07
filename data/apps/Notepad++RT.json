@@ -10,10 +10,10 @@
     "ratingsCount": "576", 
     "size": "3,4 MB", 
     "ageRating": "Everyone", 
-    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/Notepad%2B%2BRT.png", 
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/Notepadplusplus1img.png", 
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/Notepadplusplus2img.png", 
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/Notepadplusplus3img.png", 
+    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/data/images/Notepad%2B%2BRT.png", 
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/data/images/Notepadplusplus1img.png", 
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/data/images/Notepadplusplus2img.png", 
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/data/images/Notepadplusplus3img.png", 
     "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/appxs/Notepad++forWinRT.zip" 
 }
 
