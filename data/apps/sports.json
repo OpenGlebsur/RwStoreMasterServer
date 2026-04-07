@@ -10,10 +10,10 @@
     "ratingsCount": "139",
     "size": "10.4 MB",
     "ageRating": "Everyone",
-    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/images/Sports.png",
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/sportsimg1.PNG",
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/sportsimg2.PNG",
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/sportsimg3.PNG",
+    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/data/images/Sports.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/data/images/sportsimg1.PNG",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/data/images/sportsimg2.PNG",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/data/images/sportsimg3.PNG",
     "downloadUri" : "https://github.com/ReworkW8/RwStoreMasterServer/releases/download/appx/Microsoft.BingSports_3.0.0.693_x64__8wekyb3d8bbwe.appx"
 
 }
