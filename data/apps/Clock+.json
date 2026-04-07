@@ -10,10 +10,10 @@
     "ratingsCount": "549", 
     "size": "15 MB", 
     "ageRating": "Everyone", 
-    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/clock+icon.png",
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/clock+screen1.png", 
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/clock+screen2.png", 
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/clock+screen3.png", 
-    "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/appxs/12199Asparion.46210B09B1459_4.0.1.47_neutral__f89vgcf3qm37t.appx"
+    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/data/images/clock+icon.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/data/images/clock+screen1.png", 
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/data/images/clock+screen2.png", 
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/data/images/clock+screen3.png", 
+    "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/data/appxs/12199Asparion.46210B09B1459_4.0.1.47_neutral__f89vgcf3qm37t.appx"
 }
 
