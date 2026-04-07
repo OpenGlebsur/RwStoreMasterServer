@@ -10,11 +10,11 @@
     "ratingsCount": "119",
     "size": "9.17 MB",
     "ageRating": "Everyone",
-    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/images/XBLGames.png",
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/xboxGamesAppimg1.PNG",
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/xboxGamesAppimg2.PNG",
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/xboxGamesAppimg3.PNG",
-    "downloadUri" : "https://reworkw8.github.io/RwStoreMasterServer/appxs/Games.appx"
+    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/data/images/XBLGames.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/data/images/xboxGamesAppimg1.PNG",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/data/images/xboxGamesAppimg2.PNG",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/data/images/xboxGamesAppimg3.PNG",
+    "downloadUri" : "https://reworkw8.github.io/RwStoreMasterServer/data/appxs/Games.appx"
 
 }
 
