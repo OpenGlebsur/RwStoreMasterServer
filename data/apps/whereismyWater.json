@@ -10,10 +10,10 @@
     "ratingsCount": "119",
     "size": "107 MB",
     "ageRating": "Everyone",
-    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/images/WhereismyWater.png",
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/whereismyWaterimg1.PNG",
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/whereismyWaterimg2.PNG",
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/whereismyWaterimg3.PNG",
+    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/data/images/WhereismyWater.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/data/images/whereismyWaterimg1.PNG",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/data/images/whereismyWaterimg2.PNG",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/data/images/whereismyWaterimg3.PNG",
     "downloadUri" : "https://github.com/ReworkW8/RwStoreMasterServer/releases/download/appx/Disney.WheresMyWater_1.13.1.3_x86__6rarf9sa4v8jt.appx"
 
 }
