@@ -10,11 +10,11 @@
     "ratingsCount": "132",
     "size": "2.94 MB",
     "ageRating": "Everyone",
-    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/images/twitter.png",
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/twitterimg1.PNG",
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/twitterimg2.PNG",
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/twitterimg3.PNG",
-    "downloadUri" : "https://reworkw8.github.io/RwStoreMasterServer/appxs/9E2F88E3.Twitter_1.1.13.8_x86__wgeqdkkx372wm.appx"
+    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/data/images/twitter.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/data/images/twitterimg1.PNG",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/data/images/twitterimg2.PNG",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/data/images/twitterimg3.PNG",
+    "downloadUri" : "https://reworkw8.github.io/RwStoreMasterServer/data/appxs/9E2F88E3.Twitter_1.1.13.8_x86__wgeqdkkx372wm.appx"
 
 }
 
