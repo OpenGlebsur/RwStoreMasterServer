@@ -10,10 +10,10 @@
     "ratingsCount": "639",
     "size": "420 KB", 
     "ageRating": "Everyone", 
-    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/Facebookicon.png", 
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/Facebookimg1.png", 
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/Facebookimg2.png", 
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/Facebookimg3.png", 
-    "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/appxs/27376FBTouch.FacebookTouch_1.0.0.56_neutral__0fbh69et56sew.appx"
+    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/data/images/Facebookicon.png", 
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/data/images/Facebookimg1.png", 
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/data/images/Facebookimg2.png", 
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/data/images/Facebookimg3.png", 
+    "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/data/appxs/27376FBTouch.FacebookTouch_1.0.0.56_neutral__0fbh69et56sew.appx"
 }
 
