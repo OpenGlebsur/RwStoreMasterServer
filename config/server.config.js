@@ -44,7 +44,8 @@ module.exports = {
   APPS_DIR  : path.join(__dirname, '..', 'data', 'apps'),
   APPXS_DIR  : path.join(__dirname, '..', 'data', 'appxs'),
   DEPS_DIR  : path.join(__dirname, '..', 'data', 'dependencies'),
-
+  IMAGES_DIR  : path.join(__dirname, '..', 'data', 'images'),
+  THEMES_DIR  : path.join(__dirname, '..', 'data', 'themes'),
 
   CACHE_TTL_MS : 5 * 60 * 1000   
 };
