@@ -10,10 +10,10 @@
     "ratingsCount": "127",
     "size": "102 MB",
     "ageRating": "Everyone",
-    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/images/freshPaint.png",
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/freshPaintimg1.png",
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/freshPaintimg2.png",
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/freshPaintimg3.PNG",
+    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/data/images/freshPaint.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/data/images/freshPaintimg1.png",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/data/images/freshPaintimg2.png",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/data/images/freshPaintimg3.PNG",
     "downloadUri" : "https://github.com/ReworkW8/RwStoreMasterServer/releases/download/appx/Microsoft.FreshPaint_2.0.15133.0_x86__8wekyb3d8bbwe.appx"
 
 }
