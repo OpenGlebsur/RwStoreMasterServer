@@ -1,0 +1,12 @@
+{
+    "displayname" : "Media Play Ready",
+    "productType" : "dependency",
+    "displaynames" : [
+        "Play Ready Client 2.3 x86",
+        "Play Ready Client 2.3 x64",
+        "Play Ready Client 2 2.5 x86",
+        "Play Ready Client 2 2.5 x64",
+        "Play Ready Client 2 2.11 x86",
+        "Play Ready Client 2 2.11 x64"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "displayname" : "WinJS",
+    "productType" : "dependency",
+    "displaynames" : [
+        "WinJS 0.6.8229",
+        "WinJS 1.0.9200.20602",
+        "WinJS 1.0.9200.20789",
+        "WinJS 2.0 1.0.9431",
+        "WinJS 2.0 1.0.9456",
+        "WinJS 2.0 1.0.9600"
+    ]
+}
+
