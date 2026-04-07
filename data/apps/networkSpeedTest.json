@@ -10,11 +10,11 @@
     "ratingsCount": "116",
     "size": "88.8 KB",
     "ageRating": "Everyone",
-    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/images/networkSpeedTest.png",
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/networkSpeedTestimg1.png",
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/networkSpeedTestimg2.png",
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/networkSpeedTestimg3.png",
-    "downloadUri" : "https://reworkw8.github.io/RwStoreMasterServer/appxs/Microsoft.NetworkSpeedTest_8wekyb3d8bbwe.appx"
+    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/data/images/networkSpeedTest.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/data/images/networkSpeedTestimg1.png",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/data/images/networkSpeedTestimg2.png",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/data/images/networkSpeedTestimg3.png",
+    "downloadUri" : "https://reworkw8.github.io/RwStoreMasterServer/data/appxs/Microsoft.NetworkSpeedTest_8wekyb3d8bbwe.appx"
 
 }
 
