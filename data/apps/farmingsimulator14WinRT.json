@@ -10,10 +10,10 @@
     "ratingsCount": "106",
     "size": "67.2 MB",
     "ageRating": "Everyone",
-    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/farmingsimulator14.png",
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/farmingsimulator14img1.PNG",
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/farmingsimulator14img2.PNG",
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/farmingsimulator14img3.PNG",
+    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/data/images/farmingsimulator14.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/data/images/farmingsimulator14img1.PNG",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/data/images/farmingsimulator14img2.PNG",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/data/images/farmingsimulator14img3.PNG",
     "downloadUri": "https://github.com/ReworkW8/RwStoreMasterServer/releases/download/appx/GIANTSSoftware.FarmingSimulator14_1.3.0.1_arm__fa8jxm5fj0esw.appx"
 }
 
