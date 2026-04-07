@@ -1,0 +1,30 @@
+{
+  "rework_core_system": {
+    "content_theme": {
+      "deployment_groups": {
+        "curated_selection": {
+          "payload": [
+            {
+              "displayname": "Dark",
+              "productType": "",
+              "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/themes/Dark.RwStoreOfficialTheme"
+            },
+            {
+              "displayname": "NXE (New Xbox 360 Experience 2008)",
+              "productType": "",
+              "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/themes/NXE.RwStoreOfficialTheme"
+            },
+            {
+              "displayname": "Stranger Things",
+              "productType": "",
+              "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/themes/Stranger%20Things.RwStoreOfficialTheme"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "metadata": {
+    "version": "1.1.2"
+  }
+}
