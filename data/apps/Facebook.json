@@ -1,0 +1,19 @@
+{
+    "displayname": "Facebook touch", 
+    "productType": "app", 
+    "category": "Productivity", 
+    "publisher": "Meta", 
+    "copyright": "© 2013 Meta. All rights reserved.", 
+    "description": "The Facebook app for Windows 8.1 is now available to download in the Windows Store. With Facebook for Windows 8.1, you get direct access to your Facebook News Feed right from your Start screen where you can stay connected with your friends and family. Facebook for Windows 8.1 will feel familiar because it uses the same layout and visual look and feel you see on Facebook.com - making it super easy to use. You will see new friend requests, messages, and notifications at your top right. Your News Feed is there as you would expect it to be. You can compose a new post, add photos or check in. You can switch between your different feeds (e.g. Group, Photos, Following, Family, etc.) so you see all the news and updates you want to see. app may work on windows RT", 
+    "mainStars": "4", 
+    "ratingNumber": "4.7", 
+    "ratingsCount": "639",
+    "size": "420 KB", 
+    "ageRating": "Everyone", 
+    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/Facebookicon.png", 
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/Facebookimg1.png", 
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/Facebookimg2.png", 
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/Facebookimg3.png", 
+    "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/appxs/27376FBTouch.FacebookTouch_1.0.0.56_neutral__0fbh69et56sew.appx"
+}
+
