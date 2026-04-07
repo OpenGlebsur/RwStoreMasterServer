@@ -10,10 +10,10 @@
     "ratingsCount": "100",
     "size": "271 MB",
     "ageRating": "Everyone",
-    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/images/raymanJungleRun.png",
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/raymanJungleRunimg1.PNG",
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/raymanJungleRunimg2.PNG",
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/raymanJungleRunimg3.PNG",
+    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/data/images/raymanJungleRun.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/data/images/raymanJungleRunimg1.PNG",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/data/images/raymanJungleRunimg2.PNG",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/data/images/raymanJungleRunimg3.PNG",
     "downloadUri" : "https://github.com/ReworkW8/RwStoreMasterServer/releases/download/appx/RaymanJungleRunRemastered.appx"
 
 }
