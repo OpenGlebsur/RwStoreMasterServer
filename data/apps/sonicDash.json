@@ -10,10 +10,10 @@
     "ratingsCount": "114",
     "size": "56.0 MB",
     "ageRating": "Everyone",
-    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/images/sonicDash.png",
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/sonicDashimg1.PNG",
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/sonicDashimg2.PNG",
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/sonicDashimg3.PNG",
+    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/data/images/sonicDash.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/data/images/sonicDashimg1.PNG",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/data/images/sonicDashimg2.PNG",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/data/images/sonicDashimg3.PNG",
     "downloadUri" : "https://github.com/ReworkW8/RwStoreMasterServer/releases/download/appx/SegaNetworksInc.56538047DFC80_3.6.4.0_x86__as33fap47kd3c.appx"
 
 }
