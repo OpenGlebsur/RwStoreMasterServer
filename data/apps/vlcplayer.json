@@ -10,11 +10,11 @@
     "ratingsCount": "117",
     "size": "20.8 MB",
     "ageRating": "Everyone",
-    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/images/vlcplayer.PNG",
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/vlcplayerimg1.png",
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/vlcplayerimg2.png",
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/vlcplayerimg3.png",
-    "downloadUri" : "https://reworkw8.github.io/RwStoreMasterServer/appxs/VideoLAN.VLC_2018.802.825.0_neutral___paz6r1rewnh0a.appx"
+    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/data/images/vlcplayer.PNG",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/data/images/vlcplayerimg1.png",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/data/images/vlcplayerimg2.png",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/data/images/vlcplayerimg3.png",
+    "downloadUri" : "https://reworkw8.github.io/RwStoreMasterServer/data/appxs/VideoLAN.VLC_2018.802.825.0_neutral___paz6r1rewnh0a.appx"
 
 }
 
