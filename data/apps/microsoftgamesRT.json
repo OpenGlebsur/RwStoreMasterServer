@@ -10,10 +10,10 @@
     "ratingsCount": "130", 
     "size": "92,5 MB", 
     "ageRating": "Everyone", 
-    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/MSGRTico.png", 
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/MSGRTimg1.png", 
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/MSGRTimg2.png", 
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/MSGRTimg3.png", 
+    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/data/images/MSGRTico.png", 
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/data/images/MSGRTimg1.png", 
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/data/images/MSGRTimg2.png", 
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/data/images/MSGRTimg3.png", 
     "downloadUri": "https://github.com/ReworkW8/RwStoreMasterServer/releases/download/appx/Microsoft.games.for.WinRT.zip" 
 }
 
