@@ -10,10 +10,10 @@
     "ratingsCount": "106",
     "size": "50.2 MB",
     "ageRating": "Everyone",
-    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/images/CutTheRope.png",
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/cutTheRopeimg1.png",
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/cutTheRopeimg2.png",
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/cutTheRopeimg3.png",
+    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/data/images/CutTheRope.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/data/images/cutTheRopeimg1.png",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/data/images/cutTheRopeimg2.png",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/data/images/cutTheRopeimg3.png",
     "downloadUri" : "https://github.com/ReworkW8/RwStoreMasterServer/releases/download/appx/ZeptoLabUKLimited.CutTheRope_1.2.0.43_x86__sq9zxnwrk84pj.appx"
 
 }
