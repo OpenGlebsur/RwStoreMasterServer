@@ -10,10 +10,10 @@
     "ratingsCount": "651",
     "size": "26KB", 
     "ageRating": "Everyone", 
-    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/ndrg7l.png", 
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/ndrzt1.png", 
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/ndrzt2.png",
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/ndrzt3.png",
-    "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/appxs/u38did.appx" 
+    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/data/images/ndrg7l.png", 
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/data/images/ndrzt1.png", 
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/data/images/ndrzt2.png",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/data/images/ndrzt3.png",
+    "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/data/appxs/u38did.appx" 
 }
 
