@@ -10,10 +10,10 @@
     "ratingsCount": "262", 
     "size": "192 MB", 
     "ageRating": "Everyone", 
-    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/ReworkNewLogoDCServer.png", 
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/reworkwinappimg1.PNG", 
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/reworkwinappimg2.PNG", 
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/reworkwinappimg3.png", 
+    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/data/images/ReworkNewLogoDCServer.png", 
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/data/images/reworkwinappimg1.PNG", 
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/data/images/reworkwinappimg2.PNG", 
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/data/images/reworkwinappimg3.png", 
     "downloadUri": "https://github.com/ReworkW8/RwStoreMasterServer/releases/download/appx/ReworkSetup.exe" 
 }
 
