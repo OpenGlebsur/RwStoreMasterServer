@@ -10,10 +10,10 @@
     "ratingsCount": "140",
     "size": "95.0 MB",
     "ageRating": "Everyone",
-    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/images/ABStarWars.png",
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/angryBirdsStarWarsimg1.png",
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/angryBirdsStarWarsimg2.png",
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/angryBirdsStarWarsimg3.png",
+    "imgUrl" : "https://reworkw8.github.io/RwStoreMasterServer/data/images/ABStarWars.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/data/images/angryBirdsStarWarsimg1.png",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/data/images/angryBirdsStarWarsimg2.png",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/data/images/angryBirdsStarWarsimg3.png",
     "downloadUri" : "https://github.com/ReworkW8/RwStoreMasterServer/releases/download/appx/1ED5AEA5.AngryBirdsBlack_1.5.0.0_x86__p2gbknwb5d8r2.appx"
 
 }
