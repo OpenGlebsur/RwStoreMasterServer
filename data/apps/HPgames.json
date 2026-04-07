@@ -10,10 +10,10 @@
     "ratingsCount": "768",
     "size": "21.1 MB",
     "ageRating": "Everyone", 
-    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/hpgamesicon.png",
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/hpgamesscreen1.png", 
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/hpgamesscreen2.png", 
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/hpgamesscreen3.png", 
+    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/data/images/hpgamesicon.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/data/images/hpgamesscreen1.png", 
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/data/images/hpgamesscreen2.png", 
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/data/images/hpgamesscreen3.png", 
     "downloadUri": "https://github.com/ReworkW8/RwStoreMasterServer/releases/download/appx/hpgames.appx" 
 }
 
