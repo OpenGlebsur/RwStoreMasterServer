@@ -10,10 +10,10 @@
     "ratingsCount": "120",
     "size": "8.33 MB",
     "ageRating": "Everyone",
-    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/photoshop.png",
-    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/adobePhotoshopimg1.PNG",
-    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/adobePhotoshopimg2.PNG",
-    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/adobePhotoshopimg3.png",
+    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/data/images/photoshop.png",
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/data/images/adobePhotoshopimg1.PNG",
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/data/images/adobePhotoshopimg2.PNG",
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/data/images/adobePhotoshopimg3.png",
     "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/appxs/AdobeSystemsIncorporated.AdobePhotoshopExpressOEM_1.2.1.17_x64__ynb6jyjzte8ga.appx"
 }
 
