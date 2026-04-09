@@ -200,7 +200,7 @@
                     "title": "Collections",
                     "internal_code": "RW-COLL-008",
                     "payload": [
-                        {
+        {
                             "title": "Great Apps",
                             "apps": ["appinstaller", "xboxGamesApp", "freshPaint", "netflix"]
                         },
@@ -212,10 +212,22 @@
                             "title": "Indie Games",
                             "apps": ["crossyRoad", "fruitNinja", "whereismyWater", "cutTheRope"]
                         },
-                        {
-                            "title": "The Newsstand",
-                            "apps": ["weather", "news", "travel", "finance"]
-                        },
+                      {
+                        "title": "The Newsstand",
+                        "apps": [ "weather", "news", "travel", "finance" ]
+                      },
+                      {
+                        "title": "Getting Started",
+                        "apps": [ "ReWindowsStore", "caelus", "openTracks", "appinstaller" ]
+                      },
+                      {
+                        "title": "ReWork Apps",
+                        "apps": [ "store", "msoclient", "ReworkWinapp", "robloxrework", "caelus", "winrtmetroinstaller" ]
+                      },   
+                                                               {
+                        "title": "Music & Video",
+                        "apps": [ "myTube", "deezer", "netflix", "vlcplayer", "DrayMusic", "openTracks"  ]
+                      },       
                         {
                             "spacer": true
                         }
