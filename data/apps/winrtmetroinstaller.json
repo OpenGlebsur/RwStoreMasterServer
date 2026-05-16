@@ -14,7 +14,7 @@
     "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/data/images/winrtmetroinstallerimg1.PNG",
     "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/data/images/winrtmetroinstallerimg2.PNG",
     "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/data/images/winrtmetroinstallerimg3.PNG",
-    "downloadUri": "https://github.com/WindowsLock/WinRTmetroAppInstaller/releases/download/WinRT/WinRT_Metro_Instaler_stand_alone_BY_Windows_Lock.bat"
+    "downloadUri": "https://github.com/OpenGlebsur/RwStoreMasterServer/raw/refs/heads/main/data/appxs/WinRT_Metro_Instaler_stand_alone_BY_Windows_Lock.zip"
 }
 
 
