@@ -18,6 +18,11 @@
               "displayname": "Stranger Things",
               "productType": "",
               "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/themes/Stranger%20Things.RwStoreOfficialTheme"
+            },
+               {
+              "displayname": ReWinStore",
+              "productType": "",
+              "downloadUri": "https://reworkw8.github.io/RwStoreMasterServer/themes/ReWinStore.RwStoreOfficialTheme"
             }
           ]
         }
